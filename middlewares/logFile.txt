@@ -1,0 +1,14 @@
+New user Authenticated!
+Username: primeOP
+Password: prime6996
+URL: /api/checkLoggerData/primeOP/prime6996
+Date: 10/7/2024, 7:56:00 pm
+Method Type: POST
+
+New user Authenticated!
+Username: primeOP
+Password: prime6969
+URL: /api/checkLoggerData/primeOP/prime6969
+Date: 10/7/2024, 7:56:30 pm
+Method Type: POST
+
